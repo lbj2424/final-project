@@ -1,0 +1,13 @@
+body {
+    font-size: medium; 
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+    background-color: tan;
+}
+h1 {
+    color: black;
+    font-style: italic;
+    font: bold;
+
+}
